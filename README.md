@@ -4,7 +4,7 @@ This repository contains the complete machine drawing and 3D CAD model of a **Ve
 
 ---
 
-## 🧩 Project Overview
+## Project Overview
 
 A **Stirling Engine** is a closed-cycle regenerative heat engine that operates through cyclic compression and expansion of air or other gas at different temperatures. This project specifically focuses on the **Vertical configuration** of the engine.
 
@@ -17,5 +17,5 @@ The model includes:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
