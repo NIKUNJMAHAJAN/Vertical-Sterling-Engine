@@ -15,7 +15,4 @@ The model includes:
 - Bearings and Base Frame
 - Fasteners and Motion Simulation Setup
 
----
-
-## Repository Structure
 
