@@ -45,7 +45,7 @@ The model includes:
 
 **Nikunj Mahajan**  
 B.Tech in Mechanical Engineering  
-[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/nikunj-mahajan-a21667280/)) 
+[LinkedIn](https://www.linkedin.com/in/nikunj-mahajan-a21667280/)
 
 ---
 
